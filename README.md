@@ -1,6 +1,6 @@
 # crackthecode-elogroup
 
-## Repositório para o teste técnico FullStack de Rodrigo Oliveira da Silva para Elogroup.
+## Repositório para o teste técnico FullStack de Rodrigo Oliveira da Silva para Elogroup utilizando ReactJS.
 
 ### `npm install`
 
