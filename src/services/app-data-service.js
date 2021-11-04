@@ -9,6 +9,7 @@ export const loadAppData = () => {
     bd = initialData
     localStorage.setItem('data', initalDataStr)
   }
+  bd = localStorage.getItem('data')
   console.log('valor do bd ' + bd)
   let data = JSON.parse(bd)
 
