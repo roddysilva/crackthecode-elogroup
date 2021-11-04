@@ -8,7 +8,7 @@ Instala a aplicação
 
 ### `npm start`
 
-Roda a aplicação
+Roda a aplicação.
 Abra [http://localhost:3000](http://localhost:3000) para a visualização no browser.
 
 ### Obrigado pela oportunidade.
